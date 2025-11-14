@@ -153,14 +153,8 @@ Teams want self-serve access to market sentiment intelligence and trend analytic
 
 ---
 
-## ✨ Authors
+## ✨ Author
 
 Developed by [Bellamkonda Nokesh](https://github.com/Bellamkonda-Nokesh)
 
----
 
-## 🤝 License
-
-MIT License (or your choice)
-
----
