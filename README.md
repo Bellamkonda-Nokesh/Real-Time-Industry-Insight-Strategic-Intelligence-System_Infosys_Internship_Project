@@ -29,7 +29,6 @@ But extracting true market mood from headlines is noisy and scattered.
 - [x] Market-wide sentiment CSV: easy for downstream analytics.
 - [x] Core plots (see images below) reveal sentiment distribution, key topics, and emerging market moods.
 
-![Word Cloud](wordcloud.png)
 ![Sentiment Counts](sentiment_counts.png)
 ![Avg Sentiment Score Over Time](sentiment_trend.png)
 
@@ -144,11 +143,6 @@ Teams want self-serve access to market sentiment intelligence and trend analytic
 
 ---
 
-## 📸 Example Results
-
-*(see images above from actual system output for word clouds, bar charts, forecast ML, timeline trends)*
-
----
 
 ## 🚀 Future Work Ideas
 
